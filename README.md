@@ -2,6 +2,14 @@
 
 ![readme](./assets/readme.svg)
 
+# Servers Information
+
+| Name              | IP Address            | OS        |
+| :---------------- |  :------:             |  ----:    |
+| Gitlab            |   192.167.178.111     | Debian 12 |
+| Runner            |   192.167.178.112     | Debian 12 |
+| Registry          |   192.167.178.113     | Debian 12 |
+
 Install and configure gitlab on server
 
 Install and configure gitlab with external database
