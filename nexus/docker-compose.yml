@@ -2,6 +2,7 @@ version: "3.4"
 services:
   nexus:
     container_name: nexus
+    restart: always
     image: sonatype/nexus3:3.74.0
     ports:
       - '127.0.0.1:8081:8081'
