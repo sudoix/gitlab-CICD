@@ -2,13 +2,15 @@
 
 ![readme](./assets/readme.svg)
 
-# Servers Information
+## Servers Information
 
-| Name              | IP Address            | OS        |
-| :---------------- |  :------:             |  ----:    |
-| Gitlab            |   192.167.178.111     | Debian 12 |
-| Runner            |   192.167.178.112     | Debian 12 |
-| Registry          |   192.167.178.113     | Debian 12 |
+### Gitlab, Runner, Registry
+
+| Name              | IP Address         | DNS Name                | OS        |
+| :---------------- |  :------:          |  :------:               |  ----:    |
+| Gitlab            |   192.168.178.111  | gitlab.anisa.local      | Debian 12 |
+| Runner            |   192.168.178.112  | runner.anisa.local      | Debian 12 |
+| Registry          |   192.168.178.113  | registry.anisa.local    | Debian 12 |
 
 Install and configure gitlab on server
 
