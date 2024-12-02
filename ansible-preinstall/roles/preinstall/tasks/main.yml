@@ -1,0 +1,4 @@
+---
+# tasks file for preinstall
+- name: basic setup
+  include_tasks: basic.yaml
