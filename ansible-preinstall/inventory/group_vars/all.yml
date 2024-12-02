@@ -1,0 +1,10 @@
+# General
+install_ansible_modules: "true"
+disable_transparent_huge_pages: "true"
+setup_interface: "false"
+
+# DNS
+resolv_nameservers: [8.8.8.8, 4.2.2.4] # 403.online
+
+# Sanction shekan
+use_iran: "false"
