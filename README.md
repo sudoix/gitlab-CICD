@@ -14,9 +14,11 @@
 
 Install and configure gitlab on server
 
-Install and configure gitlab with external database
+TASK: Install and configure gitlab with external database
 
 Install and configure gitlab on docker and docker compose
+
+TASK: Install and configure gitlab with external database on docker and docker compose
 
 Install and configure gitlab runner on server
 
